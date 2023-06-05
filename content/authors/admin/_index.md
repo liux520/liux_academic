@@ -25,11 +25,11 @@ bio: My research interests include image restoration and visual understanding.
 # - Image Restoration
 # - Visual Understanding
 
-education:
-  courses:
-  - course: Master in Electronic Science and Technology
-    institution: Sichuan University
-    year: 2021
+# education:
+#  courses:
+#  - course: Master in Electronic Science and Technology
+#    institution: Sichuan University
+#    year: 2021
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2017
