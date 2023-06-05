@@ -9,7 +9,7 @@ headless: true
 weight: 10
 
 author: admin
-#design:
+#design: blog posts
 #  background:
 #    color: '#090a0b'
 #    text_color_light: true
@@ -20,4 +20,4 @@ author: admin
 
 😃 Hey! I'm **Xiao Liu**, a Master at Sichuan University.
 
-Check out my [CV](/about/) and news below 🚀  # blog posts
+Check out my [CV](/about/) and news below 🚀 
