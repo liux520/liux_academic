@@ -20,4 +20,4 @@ author: admin
 
 😃 Hey! I'm **Xiao Liu**, a Master at Sichuan University.
 
-Check out my [CV](/about/) and blog posts below 🚀
+Check out my [CV](/about/) and news below 🚀  # blog posts
