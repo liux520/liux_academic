@@ -18,6 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Xiao Liu**, a Master at Sichuan University.
+😃 Hey! I'm **Xiao Liu**, a Master at Sichuan University.
 
-Check out my [CV](/about/) and blog posts below 🌈
+Check out my [CV](/about/) and blog posts below 🚀
