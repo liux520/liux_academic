@@ -6,7 +6,7 @@ title: Xiao Liu (刘晓)
 superuser: true
 
 # Role/position
-role: Master
+role: 数据科学家
 
 # Status emoji
 status:
@@ -20,19 +20,19 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include image restoration and visual understanding.
 
-# interests:
-# - Artificial Intelligence
-# - Image Restoration
-# - Visual Understanding
+#interests:
+#- Artificial Intelligence
+#- Computational Linguistics
+#- Information Retrieval
 
-# education:
+#education:
 #  courses:
-#  - course: Master in Electronic Science and Technology
-#    institution: Sichuan University
-#    year: 2021
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
-#    year: 2017
+#    year: 2009
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
@@ -45,6 +45,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/liux520
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/wowchemy
@@ -52,9 +55,9 @@ social:
 #    icon_pack: fab
 #    link: https://instagram.com/geocushen
 # Uncomment below for Github link
-- icon: github
-  icon_pack: fab
-  link: https://github.com/liux520
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -66,6 +69,6 @@ social:
 #email: ""
 ---
 
-Xiao Liu is a master of artificial intelligence at the Sichuan University Image Restoration Lab (IRL). His research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
