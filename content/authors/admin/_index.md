@@ -6,7 +6,7 @@ title: Xiao Liu (刘晓)
 superuser: true
 
 # Role/position
-role: 数据科学家
+role: Master
 
 # Status emoji
 status:
