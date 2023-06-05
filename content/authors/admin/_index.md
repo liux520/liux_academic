@@ -69,6 +69,10 @@ social:
 email: "liux@stu.scu.edu.cn"
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xiao Liu is a master of electronic science and technology at Sichuan University. His research interests include image restoration and visual understanding. His advisor is Chao Ren [Associate Professor](https://scholar.google.com.hk/citations?user=Y6OuBMYAAAAJ&hl=zh-CN&oi=ao). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+If you have any questions, please contact me at liux@stu.scu.edu.cn.
+
+#Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-#reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+#Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
