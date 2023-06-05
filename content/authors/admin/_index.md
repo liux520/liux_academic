@@ -70,5 +70,4 @@ email: "liux@stu.scu.edu.cn"
 ---
 
 Xiao Liu is a master of electronic science and technology at Sichuan University. His research interests include image restoration and visual understanding. His advisor is [Chao Ren]((https://scholar.google.com.hk/citations?user=Y6OuBMYAAAAJ&hl=zh-CN&oi=ao)) (Associate Professor). 
-
 If you have any questions, please contact me at liux@stu.scu.edu.cn.
