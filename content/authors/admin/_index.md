@@ -10,7 +10,7 @@ role: Master
 
 # Status emoji
 status:
-  icon: :rocket: 
+  icon: 🚀
 
 # Organizations/Affiliations
 organizations:
