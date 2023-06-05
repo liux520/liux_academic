@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 111
-subtitle: 222
+title:
+subtitle:
 
 content:
   # Automatically link email and phone or display as text?
