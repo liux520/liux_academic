@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include image restoration and visual understanding.
 
-interests:
-- Artificial Intelligence
-- Image Restoration
-- Visual Understanding
+# interests:
+# - Artificial Intelligence
+# - Image Restoration
+# - Visual Understanding
 
 education:
   courses:
