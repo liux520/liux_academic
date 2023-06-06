@@ -11,7 +11,7 @@ weight: 20
 
 title:
 subtitle:
-weight: 10
+#weight: 10
 
 content:
   # Automatically link email and phone or display as text?
