@@ -75,6 +75,6 @@ social:
 email: "liuxmail1220@gmail.com"
 ---
 
-Xiao Liu is a master of electronic science and technology at Sichuan University. His research interests include image restoration and visual understanding. His advisor is [Chao Ren](https://scholar.google.com.hk/citations?user=Y6OuBMYAAAAJ&hl=zh-CN&oi=ao) (Associate Professor). 
+I'm a master of electronic science and technology at Sichuan University. My research interests include image restoration and visual understanding. My advisor is [Chao Ren](https://scholar.google.com.hk/citations?user=Y6OuBMYAAAAJ&hl=zh-CN&oi=ao) (Associate Professor). 
 
 If you have any questions, please contact me at liuxmail1220@gmail.com.
