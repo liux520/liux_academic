@@ -1,7 +1,7 @@
 ---
 # An instance of the About widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: about
+widget: about.avatar
 
 # Activate this widget? true/false
 active: true
@@ -19,3 +19,6 @@ title:
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 ---
+
+👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
+{style="font-size: 1.2rem; color: #FFB76B;}
