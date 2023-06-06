@@ -32,6 +32,10 @@ authors:
   - admin
   - 美杨
 
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+
 tags:
   - Academic
   - 开源
