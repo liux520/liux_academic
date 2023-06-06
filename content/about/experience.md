@@ -8,5 +8,7 @@ title: My Experience
 subtitle:
 weight: 10 # The position of section on page
 
-
+experience:
+  - title: ceo
+    company: apple
 ---
