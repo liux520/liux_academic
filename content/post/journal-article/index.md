@@ -1,7 +1,7 @@
 ---
 title: "An example journal article"
 authors:
-- **admin**
+- admin
 - Robert Ford
 - Chao Ren
 author_notes:
