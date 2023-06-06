@@ -1,42 +1,30 @@
 ---
-widget: experience
-headless: true  # This file represents a page section.
+# An instance of the Contact widget.
+# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
+widget: contact
 
-# Put Your Section Options Here (title, background, etc.) ...
-title: My Experience
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 20
+
+title:
 subtitle:
-weight: 10 # The position of section on page
 
-# Date format
-#   Refer to https://wowchemy.com/docs/getting-started/customization/#date-format
-date_format: Jan 2006
+content:
+  # Automatically link email and phone or display as text?
+#  autolink: true
 
-# Experiences.
-#   Add/remove as many `experience` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with `>-`.
-experience:
-  - title: 'CEO'
-    company: 'GenCoin'
-    company_url: ''
-    company_logo: my-logo  # Optional logo
-    location: 'California'
-    date_start: '2017-01-01'
-    date_end: ''
-    description: >-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-                
-  - title: 'Professor'
-    company: 'University X'
-    company_url: ''
-    company_logo: my-logo  # Optional logo
-    location: 'California'
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: 'Taught electronic engineering and researched semiconductor physics.'
+  # Email form provider
+#  form:
+#    provider: netlify
+#    formspree:
+#      id: 
+#    netlify:
+      # Enable CAPTCHA challenge to reduce spam?
+#      captcha: false
+
+design:
+  columns: '1'
 ---
