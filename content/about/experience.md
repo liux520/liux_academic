@@ -9,6 +9,6 @@ subtitle:
 weight: 10 # The position of section on page
 
 experience:
-  - title: ceo
-    company: apple
+   title: ceo
+   company: apple
 ---
