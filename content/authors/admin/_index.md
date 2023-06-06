@@ -74,3 +74,7 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "liuxmail1220@gmail.com"
 ---
+
+I'm a master of electronic science and technology at Sichuan University. My research interests include image restoration and visual understanding. My advisor is [Chao Ren](https://scholar.google.com.hk/citations?user=Y6OuBMYAAAAJ&hl=zh-CN&oi=ao). 
+
+If you have any questions, please contact me at liuxmail1220@gmail.com.
