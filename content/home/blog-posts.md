@@ -6,7 +6,7 @@ widget: pages
 headless: true
 active: true
 weight: 20
-title: 'Featured Publications'
+title: ''
 subtitle: ''
 content:
   offset: 0
