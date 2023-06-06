@@ -26,35 +26,6 @@ content:
   #    # Enable CAPTCHA challenge to reduce spam?
   #    captcha: false
       
-  # Contact details (edit or remove options as required)
-  email: liuxmail1220@gmail.com
-  # phone: 888 888 88 88
-  address:
-    street: No.24, Section 1 South, First Ring Road
-    city: Chengdu
-    region: CA
-    postcode: '610065'
-    country: China
-    country_code: CN
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  #office_hours:
-  #  - 'Monday 10:00 to 13:00'
-  #  - 'Wednesday 09:00 to 10:00'
-  #appointment_url: 'https://calendly.com'
-  #contact_links:
-  #  - icon: twitter
-  #    icon_pack: fab
-  #    name: DM Me
-  #    link: 'https://twitter.com/Twitter'
-  #  - icon: video
-  #    icon_pack: fas
-  #    name: Zoom Me
-  #    link: 'https://zoom.com'
-
-
 design:
-  columns: '1'
+  columns: '2'
 ---
