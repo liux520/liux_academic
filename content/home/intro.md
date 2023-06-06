@@ -21,4 +21,3 @@ author: admin
 😃 Hey! I'm **Xiao Liu**, a Master at Sichuan University.
 
 Check out my [CV](/about/) and News below 🚀 
-{style="font-size: 1.2rem; color: #FFB76B;}
