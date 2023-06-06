@@ -1,3 +1,5 @@
 ---
-type: widget_page
+title: My page
+type: landing
 ---
+
