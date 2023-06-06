@@ -6,8 +6,8 @@ cms_exclude: true
 view: compact
 flip_alt_rows: false
 
-# Optional header image (relative to `assets/media/` folder).
-banner:
+# Optional header image (relative to `assets/media/` folder). banner/header
+header:
   caption: ''
   image: ''
 ---
