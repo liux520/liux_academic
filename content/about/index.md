@@ -1,4 +1,4 @@
 ---
-tile: My Page
+#tile: My Page
 type: widget_page
 ---
