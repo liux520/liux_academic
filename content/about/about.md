@@ -1,16 +1,22 @@
 ---
-title: My page
-type: landing
+# An instance of the About widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: about.avatar
 
-sections:
-  - block: about.avatar
-    id: about
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      # Override your profile text from `authors/admin/_index.md`?
-      text: |>
-        👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
-        {style="font-size: 1.2rem; color: #FFB76B;} 
+# Activate this widget? true/false
+active: true
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 5
+
+title:
+
+# Choose the user profile to display
+# This should be the username (folder name) of a profile in your `content/authors/` folder.
+# See https://wowchemy.com/docs/get-started/#introduce-yourself
+author: admin
 ---
 
