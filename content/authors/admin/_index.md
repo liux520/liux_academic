@@ -44,10 +44,16 @@ bio: My research interests include image restoration and visual understanding.
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:liux@stu.scu.edu.cn" #'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: "mailto:liuxmail1220@gmail.com" #'about/#contact' # For a direct email link, use "mailto:test@example.org".
   - icon: github
     icon_pack: fab
     link: https://github.com/liux520
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://github.com/liux520
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/my-orcid?orcid=0009-0006-7399-3754
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/wowchemy
@@ -66,9 +72,9 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "liux@stu.scu.edu.cn"
+email: "liuxmail1220@gmail.com"
 ---
 
 Xiao Liu is a master of electronic science and technology at Sichuan University. His research interests include image restoration and visual understanding. His advisor is [Chao Ren](https://scholar.google.com.hk/citations?user=Y6OuBMYAAAAJ&hl=zh-CN&oi=ao) (Associate Professor). 
 
-If you have any questions, please contact me at liux@stu.scu.edu.cn.
+If you have any questions, please contact me at liuxmail1220@gmail.com.
