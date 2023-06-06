@@ -75,3 +75,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
+**Abstract**
+  Computer Vision
