@@ -1,3 +1,3 @@
 ---
-type: widget_page
+type: landing
 ---
