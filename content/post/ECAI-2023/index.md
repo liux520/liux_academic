@@ -5,15 +5,15 @@ title: 'Efficient Information Modulation Network for Image Super-Resolution'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  admin
-  Xiangyu Liao
-  Xiuya Shi
-  Linbo Qing
-  Chao Ren *
+  - admin
+  - Xiangyu Liao
+  - Xiuya Shi
+  - Linbo Qing
+  - Chao Ren *
 
 # Author notes (optional)
-# author_notes:
-#  * 'Corresponding Author'
+author_notes:
+  - 'Sichuan University'
 
 date: '2013-07-01T00:00:00Z'
 doi: ''
